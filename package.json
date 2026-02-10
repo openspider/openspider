@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@octokit/auth-oauth-app": "^9.0.3",
+    "@octokit/rest": "^22.0.1",
+    "pdf-parse": "^2.4.5",
+    "pdf-to-text": "^0.0.7",
+    "pdf2json": "^4.0.2"
+  }
+}
