@@ -1,0 +1,17 @@
+# Suboya TGS Curriculum Dependencies
+# 苏柏亚真善美课程依赖
+
+python>=3.8
+dataclasses>=0.6; python_version < "3.7"
+
+# Utilities
+tqdm>=4.60.0
+pyyaml>=5.4.0
+
+# Optional: For advanced NLP features
+# nltk>=3.8.0
+# spacy>=3.5.0
+
+# Optional: For semantic search
+# sentence-transformers>=2.2.0
+# faiss-cpu>=1.7.0
