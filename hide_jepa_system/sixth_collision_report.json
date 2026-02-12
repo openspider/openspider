@@ -1,0 +1,28 @@
+{
+  "analysis_time": "2026-02-11T18:59:33.568093",
+  "systems": [
+    "hide_jepa",
+    "babel_sim",
+    "ai_der_ring",
+    "ai_opera",
+    "spider_sim",
+    "athenian"
+  ],
+  "strongest_pair": "AI Der Ring × The Athenian Academy",
+  "research_directions": [
+    "原则驱动的MAS设计平台",
+    "自动化MAS设计系统",
+    "跨域MAS设计框架",
+    "MAS设计知识图谱",
+    "可解释MAS设计"
+  ],
+  "roadmap": [
+    "理论基础",
+    "架构基础",
+    "安全核心",
+    "表示学习",
+    "数字孪生",
+    "创意应用",
+    "融合"
+  ]
+}

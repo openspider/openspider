@@ -1,0 +1,28 @@
+# Hide-JEPA Knowledge Capsule System
+# 依赖项
+
+# 核心依赖
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+
+# 可选：用于文档解析
+python-docx>=1.0.0  # 解析Word文档
+PyPDF2>=3.0.0       # 解析PDF
+
+# 可选：用于Web抓取
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# 可选：用于NLP处理
+transformers>=4.30.0
+sentence-transformers>=2.2.0
+
+# 开发工具
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
+
+# 可视化（可选）
+matplotlib>=3.7.0
+networkx>=3.0.0

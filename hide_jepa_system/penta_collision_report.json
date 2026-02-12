@@ -1,0 +1,26 @@
+{
+  "analysis_time": "2026-02-11T11:20:32.852346",
+  "systems": [
+    "hide_jepa",
+    "babel_sim",
+    "ai_der_ring",
+    "ai_opera",
+    "spider_sim"
+  ],
+  "strongest_pair": "BabelSim × AI Opera",
+  "research_directions": [
+    "分布式安全态势感知网络",
+    "数字孪生安全模拟平台",
+    "沉浸式安全教育",
+    "自进化安全AI系统",
+    "跨域安全知识图谱"
+  ],
+  "roadmap": [
+    "基础设施",
+    "安全核心",
+    "表示学习",
+    "数字孪生",
+    "创意应用",
+    "融合"
+  ]
+}
